@@ -179,6 +179,27 @@ h1 {
     margin-right: auto;
 }
 
+.nav-cta {
+    background: #D9B358;
+    color: #0E294B !important;
+    padding: 9px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 10px;
+    transition: background 0.2s, color 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.07);
+    display: inline-block;
+    border: none;
+    position: relative;
+    top: -2px;
+}
+.nav-cta:hover {
+    background: #B89C4B;
+    color: #fff !important;
+}
+
+
 footer {
     background: #0E294B;
     color: #FFFFFF;
