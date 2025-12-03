@@ -199,6 +199,28 @@ h1 {
     color: #fff !important;
 }
 
+.testimonial {
+  margin: 40px auto;
+  max-width: 900px;
+  padding: 24px 28px;
+  background: #F8F8F8;
+  border-radius: 8px;
+  box-shadow: 0 0 8px #ddd2;
+}
+
+.testimonial blockquote {
+  margin: 0;
+  font-style: italic;
+  color: #25344c;
+  line-height: 1.6;
+}
+
+.testimonial-author {
+  margin-top: 18px;
+  text-align: right;
+  font-size: 1em;
+  color: #0E294B;
+}
 
 footer {
     background: #0E294B;
